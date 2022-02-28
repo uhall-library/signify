@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "clockin",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "clockin-system-88031": {
+      "hosting": {
+        "app": [
+          "clockin-system-88031"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "clockin-system-88031"
+  }
+}
